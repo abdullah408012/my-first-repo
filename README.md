@@ -1,2 +1,2 @@
 # my-first-repo
-hellomi am makeing change in git
+hello i am making change in git
